@@ -42,4 +42,24 @@ MySQL or MariaDB
 
 Laravel 12.x
 
+🎨 Screenshots
+
+Product Grid with Filters
+<img width="683" height="579" alt="image" src="https://github.com/user-attachments/assets/9f1a5569-cbfb-47e9-a3c2-0444b0277a34" />
+<img width="671" height="588" alt="image" src="https://github.com/user-attachments/assets/c6a58f5f-9719-4617-9a57-c2ff4df9bf48" />
+
+Product Details
+<img width="1074" height="359" alt="image" src="https://github.com/user-attachments/assets/f3170f0e-fa77-4b5d-aaa0-5fc87a8b659d" />
+
+
+📝 Future Improvements
+
+✅ Delete products
+
+✅ Export product list (CSV / Excel)
+
+✅ Authentication (Admin login)
+
+✅ Category management
+
 XAMPP / Valet / Homestead / Docker (for local dev)
